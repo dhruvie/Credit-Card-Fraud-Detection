@@ -33,3 +33,4 @@ The second factor is diversity, meaning that there’s a forest of trees that co
 
 
 # Contributors
+https://github.com/dhruvie/Credit-Card-Fraud-Detection/graphs/contributors
